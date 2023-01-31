@@ -9783,8 +9783,8 @@ a.text-dark:hover, a.text-dark:focus {
   .bg-info-evento {
     background: linear-gradient(rgb(0 0 0 / 12%), rgb(0 0 0 / 12%)), url(../img/info-evento.png), no-repeat center center;
     background-size: cover;
-    height: 5rem !important;
-    margin-bottom: 4rem;
+    height: 7rem !important;
+    margin-bottom: 2rem;
   }
 }
 
