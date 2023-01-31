@@ -483,8 +483,8 @@ h6, .h6 {
 }
 
 hr {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
   border: 0;
   border-top: 2px solid rgba(0, 0, 0, 0.1);
 }
@@ -9754,6 +9754,21 @@ a.text-dark:hover, a.text-dark:focus {
 .bg-hojas-1 {
   background: linear-gradient(rgb(0 0 0 / 12%), rgb(0 0 0 / 12%)), url(../img/fondo-hojas.png), no-repeat center center;
   background-size: contain;
+}
+
+.bg-portada-1 {
+  background: linear-gradient(rgb(0 0 0 / 12%), rgb(0 0 0 / 12%)), url(../img/portada.png), no-repeat center center;
+  background-size: cover;
+  height: 150rem !important;
+  
+}
+
+@media (max-width: 1200px) {
+  .bg-portada-1 {
+    background: linear-gradient(rgb(0 0 0 / 12%), rgb(0 0 0 / 12%)), url(../img/portada.png), no-repeat center center;
+    background-size: cover;
+    height: 580px !important;
+  }
 }
 
 .gallery-carousel .owl-nav {
