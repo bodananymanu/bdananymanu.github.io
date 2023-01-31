@@ -4356,7 +4356,7 @@ input[type="button"].btn-block {
 
 .navbar-dark .navbar-toggler {
   color: rgba(255, 255, 255, 0.5);
-  border-color: rgba(255, 255, 255, 0.1);
+  border-color: #6b0808;
 }
 
 .navbar-dark .navbar-toggler-icon {
@@ -9768,7 +9768,7 @@ a.text-dark:hover, a.text-dark:focus {
     background: linear-gradient(rgb(0 0 0 / 12%), rgb(0 0 0 / 12%)), url(../img/portada.png), no-repeat center center;
     background-size: cover;
     height: 580px !important;
-    margin-bottom: 2rem;
+    margin-bottom: 0rem;
   }
 }
 
@@ -9784,7 +9784,7 @@ a.text-dark:hover, a.text-dark:focus {
     background: linear-gradient(rgb(0 0 0 / 12%), rgb(0 0 0 / 12%)), url(../img/info-evento.png), no-repeat center center;
     background-size: cover;
     height: 5rem !important;
-    margin-bottom: 2rem;
+    margin-bottom: 4rem;
   }
 }
 
