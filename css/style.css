@@ -57,7 +57,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 body {
   margin: 0;
   font-family: "Montserrat", sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 400;
   line-height: 1.5;
   color: #4C0D00;
@@ -73,6 +73,7 @@ hr {
   box-sizing: content-box;
   height: 0;
   overflow: visible;
+  background: #4C0D00;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -83,8 +84,6 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  margin-left: 1rem;
-  margin-right: 1rem;
 }
 
 abbr[title],
@@ -459,6 +458,12 @@ h6, .h6 {
   }
 }
 
+.display-frase {
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
 .display-4 {
   font-size: 3.5rem;
   font-weight: 300;
@@ -468,6 +473,12 @@ h6, .h6 {
 @media (max-width: 1200px) {
   .display-4 {
     font-size: calc(1.475rem + 2.7vw) ;
+  }
+}
+
+@media (max-width: 1200px) {
+  .display-frase {
+    font-size: calc(1.2rem + 2.7vw) ;
   }
 }
 
@@ -7590,7 +7601,7 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 3rem !important;
+  padding-top: 1rem !important;
 }
 
 .pr-5,
@@ -9250,6 +9261,10 @@ button.bg-dark:focus {
   font-weight: 400 !important;
 }
 
+.font-weight-medium {
+  font-weight: 500 !important;
+}
+
 .font-weight-bold {
   font-weight: 700 !important;
 }
@@ -9771,3 +9786,17 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
+.width-medium {
+  max-width: 50%;
+}
+
+.v-line{
+  border-left: thick solid #000;
+  height:100%;
+  left: 50%;
+  position: absolute;
+ }
+
+ .margin-cero {
+   margin-bottom: 0 !important;
+ }

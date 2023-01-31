@@ -7,5 +7,5 @@ const param = url.searchParams.get("invitado");
 const divsInvitados = document.getElementsByName("invitado");
 
 for (const miDiv of divsInvitados) {
-    miDiv.innerHTML = "Hola " + param + ", te invitamos a celebrar nuestra boda";
+    miDiv.innerHTML = "Hola " + (param ? param : "");
 }
