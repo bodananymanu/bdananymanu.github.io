@@ -9757,7 +9757,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .bg-portada-1 {
-  background: linear-gradient(rgb(0 0 0 / 12%), rgb(0 0 0 / 12%)), url(../img/portada.png), no-repeat center center;
+  background: linear-gradient(rgb(0 0 0 / 12%), rgb(0 0 0 / 12%)), url(../img/portada-desktop.png), no-repeat center center;
   background-size: cover;
   height: 150rem !important;
   margin-bottom: 2rem;
