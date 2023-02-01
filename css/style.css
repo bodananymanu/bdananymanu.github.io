@@ -6178,7 +6178,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #121F38 !important;
+  background-color: #6b0808 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -9759,7 +9759,7 @@ a.text-dark:hover, a.text-dark:focus {
 .bg-portada-1 {
   background: linear-gradient(rgb(0 0 0 / 12%), rgb(0 0 0 / 12%)), url(../img/portada-desktop.png), no-repeat center center;
   background-size: cover;
-  height: 150rem !important;
+  height: 65rem !important;
   margin-bottom: 2rem;
 }
 
@@ -9807,8 +9807,8 @@ a.text-dark:hover, a.text-dark:focus {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #6b0808;
-  background: #FFFFFF;
+  color: #FFFFFF;
+  background: #6b0808;
   font-size: 30px;
 }
 
@@ -9835,4 +9835,8 @@ a.text-dark:hover, a.text-dark:focus {
 
  .margin-cero {
    margin-bottom: 0 !important;
+ }
+
+ .form-google {
+  width: 100%;
  }

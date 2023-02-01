@@ -5,9 +5,9 @@ const divBody = document.getElementById("principal");
 
 
 let listInvitados = [
-    {"id" : 1, "nombre" : "Andrea"  },
-    {"id" : 2, "nombre" : "Alvaro"  },
-    {"id" : 3, "nombre" : "Sofia"  }
+    {"id" : 1, "nombre" : "Andrea", "nombreCompleto" : "Andrea Grisales"  },
+    {"id" : 2, "nombre" : "Alvaro", "nombreCompleto" : "Alvaro Grisales"  },
+    {"id" : 3, "nombre" : "Sofia", "nombreCompleto" : "Sofia Maldonado"  }
 ]
 
 
@@ -17,11 +17,13 @@ const param = url.searchParams.get("invitado");
 
 let nombre = null;
 let invitadoEncontrado = false;
+let nombreCompleto = null;
 
 
 listInvitados.forEach(function(invitado) {
     if(invitado.id === parseInt(param)) {
         nombre = invitado.nombre;
+        nombreCompleto = invitado.nombreCompleto;
         invitadoEncontrado = true;
     }
 });
@@ -39,3 +41,7 @@ if(invitadoEncontrado) {
 for (const miDiv of divsInvitados) {
     miDiv.innerHTML = "Hola " + (nombre ? nombre : "");
 }
+
+const divConfirmarAsistencia = document.getElementById("confirmar-asistencia")
+
+divConfirmarAsistencia.innerHTML = "Invitación exclusiva para " + nombreCompleto 
