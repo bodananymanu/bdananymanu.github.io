@@ -9818,12 +9818,20 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
-.width-medium {
+.width-large {
   max-width: 50%;
+}
+
+.width-medium {
+  max-width: 25%;
 }
 
 .width-small {
   max-width: 15%;
+}
+
+.width-extra-small {
+  max-width: 7%;
 }
 
 .v-line{
