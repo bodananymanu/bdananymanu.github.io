@@ -57,8 +57,15 @@
 
     <!-- Carousel Start -->
     <div class="container-fluid p-0" id="home">
-        <div class="bg-portada-1" >
-        </div>
+         <!--<div class="bg-portada-1" >
+        </div>-->
+        <picture >
+            <source media="(max-width: 799px)" srcset="img/portada.png">
+            <source media="(min-width: 800px)" srcset="img/portada-desktop.png">
+            <img src="img/portada-desktop.png" alt="" class="img-fluid mb-4">
+        </picture>
+        
+        
     </div>
     <!-- Carousel End -->
 
@@ -97,7 +104,9 @@
             </div>
            
             
-            <div class="text-center text-md-left bg-info-evento"></div>
+            <div class="text-center text-center ">
+                <img class="img-fluid mb-4" src="img/info-evento.png" alt="">
+            </div>
 
 
             <div class="row">
