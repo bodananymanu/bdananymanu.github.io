@@ -9852,3 +9852,16 @@ a.text-dark:hover, a.text-dark:focus {
  .form-google {
   width: 100%;
  }
+
+
+.history-video {
+  padding: 2rem !important;
+}
+
+@media (max-width: 1200px) {
+  .history-video {
+    padding: 0rem !important;
+    max-width: 100%;
+    height: 244px;
+  }
+}
