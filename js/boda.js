@@ -66,7 +66,7 @@ let listInvitados = [
     {"id" : 59, "nombre" : "Isa", "nombreCompleto" : "Maria Isabela Ceballos", "mensaje" : "" },
     {"id" : 60, "nombre" : "Cristian", "nombreCompleto" : "Cristian Alejandro Cuervo", "mensaje" : "" },
     {"id" : 61, "nombre" : "Lina", "nombreCompleto" : "Lina Estrada", "mensaje" : "" },
-    {"id" : 62, "nombre" : "Libia", "nombreCompleto" : "Libia ", "mensaje" : "" },
+    {"id" : 62, "nombre" : "Libia", "nombreCompleto" : "Libia Gomez", "mensaje" : "" },
     {"id" : 63, "nombre" : "Margara", "nombreCompleto" : "Margarita Ramirez", "mensaje" : "" },
     {"id" : 64, "nombre" : "Maria Isabel", "nombreCompleto" : "Maria Isabel Tabares", "mensaje" : "" },
     {"id" : 65, "nombre" : "Maria", "nombreCompleto" : "Maria Paulina Marin", "mensaje" : "" },
@@ -81,7 +81,7 @@ let listInvitados = [
     {"id" : 74, "nombre" : "Ricardo", "nombreCompleto" : "Ricardo Yepes", "mensaje" : "" },
     {"id" : 75, "nombre" : "Tía Rocio", "nombreCompleto" : "Rocio Grisales", "mensaje" : "" },
     {"id" : 76, "nombre" : "Nata", "nombreCompleto" : "Nataly Echavarria", "mensaje" : "" },
-    {"id" : 77, "nombre" : "Viviana", "nombreCompleto" : "Viviana ", "mensaje" : "" },
+    {"id" : 77, "nombre" : "Viviana", "nombreCompleto" : "Viviana Echavarria", "mensaje" : "" },
     {"id" : 78, "nombre" : "Novio Nataly", "nombreCompleto" : "Sergio Ramirez", "mensaje" : "" },
     {"id" : 79, "nombre" : "Tío Roger", "nombreCompleto" : "Roger Ramirez", "mensaje" : "" },
     {"id" : 80, "nombre" : "Mi prima hermosa", "nombreCompleto" : "Rubi Ramirez", "mensaje" : "Eres mi prima adorada. Aunque ya no hablamos tanto, quiero que sepas que en mi corazón siempre llevaré los lindos momentos que vivimos juntos en nuestra infancia" },
@@ -105,7 +105,8 @@ let listInvitados = [
     {"id" : 98, "nombre" : "Prima", "nombreCompleto" : "Erika Restrepo", "mensaje" : "" },
     {"id" : 99, "nombre" : "Luis", "nombreCompleto" : "Luis Herrera", "mensaje" : "" },
     {"id" : 100, "nombre" : "Benny", "nombreCompleto" : "Benny Díaz ", "mensaje" : "" },
-    {"id" : 101, "nombre" : "Nico", "nombreCompleto" : "Nicolas Velez", "mensaje" : "Sabes que somos como hermanitos, eres de las personas que mas voy a extrañar este día, entiendo que es poco probable que puedas estar pero no puedo dejar de invitarte, el mundo da mil vueltas y ps quien sabe. Te extrañamos mucho guebón, prontamente tendremos la oportunidad de reunirnos allá." }
+    {"id" : 101, "nombre" : "Nico", "nombreCompleto" : "Nicolas Velez", "mensaje" : "Sabes que somos como hermanitos, eres de las personas que mas voy a extrañar este día, entiendo que es poco probable que puedas estar pero no puedo dejar de invitarte, el mundo da mil vueltas y ps quien sabe. Te extrañamos mucho guebón, prontamente tendremos la oportunidad de reunirnos allá." },
+    {"id" : 102, "nombre" : "Emanuel", "nombreCompleto" : "Emanuel Herrera", "mensaje" : ""  }
 ]
 
 
