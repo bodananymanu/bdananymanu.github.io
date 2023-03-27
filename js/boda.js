@@ -85,7 +85,7 @@ let listInvitados = [
     {"id" : 78, "nombre" : "Novio Nataly", "nombreCompleto" : "Sergio Ramirez", "mensaje" : "" },
     {"id" : 79, "nombre" : "Tío Roger", "nombreCompleto" : "Roger Ramirez", "mensaje" : "" },
     {"id" : 80, "nombre" : "Mi prima hermosa", "nombreCompleto" : "Rubi Ramirez", "mensaje" : "Eres mi prima adorada. Aunque ya no hablamos tanto, quiero que sepas que en mi corazón siempre llevaré los lindos momentos que vivimos juntos en nuestra infancia" },
-    {"id" : 81, "nombre" : "Negro", "nombreCompleto" : "Santiago (Negro)", "mensaje" : "" },
+    {"id" : 81, "nombre" : "Negro", "nombreCompleto" : "Santiago Hernandez", "mensaje" : "" },
     {"id" : 82, "nombre" : "Santi", "nombreCompleto" : "Santiago Espinosa", "mensaje" : "Santi, gracias por estar ahí durante tantos momentos, has sido un gran apoyo y te agradezco enormemente por ser mi amigo, espero poder brindarte las mismas cosas lindas que me has dado y también a la pequeña génesis. Te amo mucho y espero podamos compartir muchos momentos más juntos. " },
     {"id" : 83, "nombre" : "Mono", "nombreCompleto" : "Sebastian Anderson", "mensaje" : "" },
     {"id" : 84, "nombre" : "Sergio", "nombreCompleto" : "Sergio Ramirez", "mensaje" : "" },
