@@ -93,7 +93,18 @@ let listInvitados = [
     {"id" : 86, "nombre" : "Vale", "nombreCompleto" : "Valeria Morales", "mensaje" : "" },
     {"id" : 87, "nombre" : "Wanda", "nombreCompleto" : "Wanda Ramirez", "mensaje" : "" },
     {"id" : 88, "nombre" : "Hijueputón", "nombreCompleto" : "William Ramirez", "mensaje" : "" },
-    {"id" : 89, "nombre" : "Yeidi", "nombreCompleto" : "Yeidi Cartagena", "mensaje" : "Gracias por brindarme tu amistad de la forma más desinteresada y real, me encantaría poder compartir este y muchos más momentos a tu lado, eres una gran persona" }
+    {"id" : 89, "nombre" : "Yeidi", "nombreCompleto" : "Yeidi Cartagena", "mensaje" : "Gracias por brindarme tu amistad de la forma más desinteresada y real, me encantaría poder compartir este y muchos más momentos a tu lado, eres una gran persona" },
+    {"id" : 90, "nombre" : "Carlos", "nombreCompleto" : "Carlos Ospina", "mensaje" : "" },
+    {"id" : 91, "nombre" : "Yulisa", "nombreCompleto" : "Yulisa Zapata", "mensaje" : "" },
+    {"id" : 92, "nombre" : "Consuelo", "nombreCompleto" : "Consuelo Grisales", "mensaje" : "" },
+    {"id" : 93, "nombre" : "Juan Carlos", "nombreCompleto" : "Juan Carlos Zapata", "mensaje" : "" },
+    {"id" : 94, "nombre" : "Diego", "nombreCompleto" : "Diego Ramirez", "mensaje" : "" },
+    {"id" : 95, "nombre" : "Giovani", "nombreCompleto" : "Giovani Ramirez", "mensaje" : "" },
+    {"id" : 96, "nombre" : "Mirna", "nombreCompleto" : "Mirna Becerra", "mensaje" : "" },
+    {"id" : 97, "nombre" : "Tati", "nombreCompleto" : "Tatiana Ramirez", "mensaje" : "" },
+    {"id" : 98, "nombre" : "Prima", "nombreCompleto" : "Erika Restrepo", "mensaje" : "" },
+    {"id" : 99, "nombre" : "Luis", "nombreCompleto" : "Luis Herrera", "mensaje" : "" },
+    {"id" : 100, "nombre" : "Benny", "nombreCompleto" : "Benny Díaz ", "mensaje" : "" }
 ]
 
 
