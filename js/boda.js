@@ -102,11 +102,12 @@ let listInvitados = [
     {"id" : 95, "nombre" : "Giovani", "nombreCompleto" : "Giovani Ramirez", "mensaje" : "" },
     {"id" : 96, "nombre" : "Mirna", "nombreCompleto" : "Mirna Becerra", "mensaje" : "" },
     {"id" : 97, "nombre" : "Tati", "nombreCompleto" : "Tatiana Ramirez", "mensaje" : "" },
-    {"id" : 98, "nombre" : "Prima", "nombreCompleto" : "Erika Restrepo", "mensaje" : "" },
+    {"id" : 98, "nombre" : "Prima", "nombreCompleto" : "Erika Restrepo", "mensaje" : "Aunque sabía que la situación era compleja, eras una de las personas que más deseaba que estuviera presente en este día tan especial para mí. No sabes cuánto nos alegra saber que podrás venir con tu familia. Es un gran gesto que nunca olvidaremos." },
     {"id" : 99, "nombre" : "Luis", "nombreCompleto" : "Luis Herrera", "mensaje" : "" },
     {"id" : 100, "nombre" : "Benny", "nombreCompleto" : "Benny Díaz ", "mensaje" : "" },
     {"id" : 101, "nombre" : "Nico", "nombreCompleto" : "Nicolas Velez", "mensaje" : "Sabes que somos como hermanitos, eres de las personas que mas voy a extrañar este día, entiendo que es poco probable que puedas estar pero no puedo dejar de invitarte, el mundo da mil vueltas y ps quien sabe. Te extrañamos mucho guebón, prontamente tendremos la oportunidad de reunirnos allá." },
     {"id" : 102, "nombre" : "Emanuel", "nombreCompleto" : "Emanuel Herrera", "mensaje" : ""  }
+    {"id" : 103, "nombre" : "Luis", "nombreCompleto" : "Luis", "mensaje" : ""  }
 ]
 
 
