@@ -38,7 +38,7 @@ let listInvitados = [
     {"id" : 31, "nombre" : "Don Efra", "nombreCompleto" : "Efrain Rios", "mensaje" : "" },
     {"id" : 32, "nombre" : "Eliana", "nombreCompleto" : "Eliana Ramirez", "mensaje" : "" },
     {"id" : 33, "nombre" : "Eliza", "nombreCompleto" : "Elizabeth Toro", "mensaje" : "Sabes que tienes un lugar reservado en mi corazón y aunque sé que soy fría y no soy la mejor demostrandolo, valoro todas y cada una de las cosas que me brindas y espero poder demostrartelo de la mejor manera. Te quiero mucho y espero poder compartir a tu lado este y muchos momentos más en nuestras vidas" },
-    {"id" : 34, "nombre" : "Magdalena", "nombreCompleto" : "Magdalena Catañeda", "mensaje" : "" },
+    {"id" : 34, "nombre" : "Magdalena", "nombreCompleto" : "Magdalena Catañeda", "mensaje" : "Gracias por abrirme siempre las puertas de tu casa, eres una gran persona y espero poder estar siempre cerca de toda tu familia, los quiero mucho." },
     {"id" : 35, "nombre" : "Miguel", "nombreCompleto" : "Miguel Angel Toro", "mensaje" : "" },
     {"id" : 36, "nombre" : "Tía Estela", "nombreCompleto" : "Estela Grisales", "mensaje" : "" },
     {"id" : 37, "nombre" : "Vane", "nombreCompleto" : "Vanessa Grisales", "mensaje" : "" },
