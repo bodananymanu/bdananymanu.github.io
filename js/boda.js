@@ -75,7 +75,7 @@ let listInvitados = [
     {"id" : 68, "nombre" : "Tía Mery", "nombreCompleto" : "Mery Grisales", "mensaje" : "" },
     {"id" : 69, "nombre" : "Deiby", "nombreCompleto" : "Deiby Garcia", "mensaje" : "" },
     {"id" : 70, "nombre" : "Nelson", "nombreCompleto" : "Nelson Garcia", "mensaje" : "" },
-    {"id" : 71, "nombre" : "Nelson", "nombreCompleto" : "Nelson Ramirez", "mensaje" : "" },
+    {"id" : 71, "nombre" : "Tío Nelson", "nombreCompleto" : "Nelson Ramirez", "mensaje" : "" },
     {"id" : 72, "nombre" : "Tio Orlando", "nombreCompleto" : "Orlando Grisales", "mensaje" : "" },
     {"id" : 73, "nombre" : "Juanes", "nombreCompleto" : "Juanes Grisales", "mensaje" : "" },
     {"id" : 74, "nombre" : "Ricardo", "nombreCompleto" : "Ricardo Yepes", "mensaje" : "" },
