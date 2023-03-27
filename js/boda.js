@@ -104,7 +104,8 @@ let listInvitados = [
     {"id" : 97, "nombre" : "Tati", "nombreCompleto" : "Tatiana Ramirez", "mensaje" : "" },
     {"id" : 98, "nombre" : "Prima", "nombreCompleto" : "Erika Restrepo", "mensaje" : "" },
     {"id" : 99, "nombre" : "Luis", "nombreCompleto" : "Luis Herrera", "mensaje" : "" },
-    {"id" : 100, "nombre" : "Benny", "nombreCompleto" : "Benny Díaz ", "mensaje" : "" }
+    {"id" : 100, "nombre" : "Benny", "nombreCompleto" : "Benny Díaz ", "mensaje" : "" },
+    {"id" : 101, "nombre" : "Nico", "nombreCompleto" : "Nicolas Velez", "mensaje" : "Sabes que somos como hermanitos, eres de las personas que mas voy a extrañar este día, entiendo que es poco probable que puedas estar pero no puedo dejar de invitarte, el mundo da mil vueltas y ps quien sabe. Te extrañamos mucho guebón, prontamente tendremos la oportunidad de reunirnos allá." }
 ]
 
 
