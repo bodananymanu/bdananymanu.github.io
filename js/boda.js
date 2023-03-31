@@ -108,7 +108,8 @@ let listInvitados = [
     {"id" : 101, "nombre" : "Nico", "nombreCompleto" : "Nicolas Velez", "mensaje" : "Sabes que somos como hermanitos, eres de las personas que mas voy a extrañar este día, entiendo que es poco probable que puedas estar pero no puedo dejar de invitarte, el mundo da mil vueltas y ps quien sabe. Te extrañamos mucho guebón, prontamente tendremos la oportunidad de reunirnos allá." },
     {"id" : 102, "nombre" : "Emanuel", "nombreCompleto" : "Emanuel Herrera", "mensaje" : ""  },
     {"id" : 103, "nombre" : "Luis", "nombreCompleto" : "Luis", "mensaje" : ""  },
-    {"id" : 104, "nombre" : "Nico", "nombreCompleto" : "Nicolas ", "mensaje" : "" }
+    {"id" : 104, "nombre" : "Nico", "nombreCompleto" : "Nicolas ", "mensaje" : "" },
+    {"id" : 105, "nombre" : "Jonathan y Tatiana", "nombreCompleto" : "Jonathan y Tatiana ", "mensaje" : "" }
 ]
 
 
