@@ -114,7 +114,9 @@ let listInvitados = [
     {"id" : 107, "nombre" : "Mona", "nombreCompleto" : "Angelica Palacio", "mensaje" : "" },
     {"id" : 108, "nombre" : "Deimer", "nombreCompleto" : "Deimer Montiel", "mensaje" : ""},
     {"id" : 109, "nombre" : "Adriana", "nombreCompleto" : "Adriana ", "mensaje" : "" },
-    {"id" : 110, "nombre" : "Dona", "nombreCompleto" : "Cristian Orozco", "mensaje" : "" }
+    {"id" : 110, "nombre" : "Dona", "nombreCompleto" : "Cristian Orozco", "mensaje" : "" },
+    {"id" : 111, "nombre" : "Cindy", "nombreCompleto" : "Cindy Agudelo", "mensaje" : "" },
+    {"id" : 112, "nombre" : "Chigüi", "nombreCompleto" : "Juan David Zapata", "mensaje" : "Mas vale tarde que nunca. A pesar que en los últimos años no hemos podido compartir mucho, sabes que sos un gran amigo, una de las mejores personas que conozco y un gran referente en mi vida profesional." }
 ]
 
 
