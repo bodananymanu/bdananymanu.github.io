@@ -121,7 +121,9 @@ let listInvitados = [
     {"id" : 114, "nombre" : "Tiven", "nombreCompleto" : "Estiven  Sanchez", "mensaje" : "" },
     {"id" : 115, "nombre" : "Mike", "nombreCompleto" : "Mike Monsalve", "mensaje" : "" },
     {"id" : 116, "nombre" : "Jorus", "nombreCompleto" : "Juan Mariaca", "mensaje" : "" },
-    {"id" : 117, "nombre" : "Marinela", "nombreCompleto" : "Marinela Giraldo", "mensaje" : "" }
+    {"id" : 117, "nombre" : "Marinela", "nombreCompleto" : "Marinela Giraldo", "mensaje" : "" },
+    {"id" : 118, "nombre" : "Kenier", "nombreCompleto" : "Kenier Rivera", "mensaje" : "" },
+    {"id" : 119, "nombre" : "Juliana", "nombreCompleto" : "Juliana Quintero", "mensaje" : "" },
 ]
 
 
