@@ -127,6 +127,7 @@ let listInvitados = [
     {"id" : 120, "nombre" : "Lina", "nombreCompleto" : "Lina Rivera", "mensaje" : "" },
     {"id" : 121, "nombre" : "Maria Camila", "nombreCompleto" : "Maria Camila ", "mensaje" : "" },
     {"id" : 122, "nombre" : "Busta", "nombreCompleto" : "Alejandro Bustamante", "mensaje" : "" },
+    {"id" : 123, "nombre" : "Sirleny", "nombreCompleto" : "Sirleny Rivera", "mensaje" : "" },
 ]
 
 
