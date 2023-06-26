@@ -132,7 +132,10 @@ let listInvitados = [
     {"id" : 125, "nombre" : "Luisa", "nombreCompleto" : "Luisa Fernanda Posada", "mensaje" : "¡Mas vale tarde, que nunca!" },
     {"id" : 126, "nombre" : "Vero", "nombreCompleto" : "Veronica Arredondo", "mensaje" : "" },
     {"id" : 127, "nombre" : "Alejandra", "nombreCompleto" : "Alejandra", "mensaje" : "" },
-    {"id" : 127, "nombre" : "Caro", "nombreCompleto" : "Carolina Rivera", "mensaje" : "" },
+    {"id" : 131, "nombre" : "Caro", "nombreCompleto" : "Carolina Rivera", "mensaje" : "" },
+    {"id" : 128, "nombre" : "Valentina", "nombreCompleto" : "Valentina Velez", "mensaje" : "" },
+    {"id" : 129, "nombre" : "Johana", "nombreCompleto" : "Johana Rivera", "mensaje" : "" },
+    {"id" : 130, "nombre" : "Salome", "nombreCompleto" : "Salome", "mensaje" : "" },
 ]
 
 
